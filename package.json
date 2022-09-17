@@ -1,0 +1,20 @@
+{
+  "name": "webbackenddevelopment2_kofi_junior_eshun",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eshun4/WebBackEndDevelopment2_Kofi_Junior_Eshun.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eshun4/WebBackEndDevelopment2_Kofi_Junior_Eshun/issues"
+  },
+  "homepage": "https://github.com/eshun4/WebBackEndDevelopment2_Kofi_Junior_Eshun#readme"
+}
