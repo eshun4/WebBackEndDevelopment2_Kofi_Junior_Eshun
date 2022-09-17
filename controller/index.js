@@ -1,5 +1,5 @@
 function index(req,res){
-    res.send('Sarah Birch')
+    res.send('Faustina Eshun')
 }
 
 module.exports = {index}
