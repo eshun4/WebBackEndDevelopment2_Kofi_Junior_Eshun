@@ -4,3 +4,9 @@
 ### GET http://localhost:8080/contacts/632fdbc74a3fb2f41db547de
 ### GET http://localhost:8080/contacts/632fdbc74a3fb2f41db547df
 ### GET http://localhost:8080/contacts/632fdbc74a3fb2f41db547e0
+
+### GET https://kofisapi.onrender.com/contacts
+### GET https://kofisapi.onrender.com/contacts/632fdbc74a3fb2f41db547dd
+### GET https://kofisapi.onrender.com/contacts/632fdbc74a3fb2f41db547de
+### GET https://kofisapi.onrender.com/contacts/632fdbc74a3fb2f41db547df
+### GET https://kofisapi.onrender.com/contacts/632fdbc74a3fb2f41db547e0
